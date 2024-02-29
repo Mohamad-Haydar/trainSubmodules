@@ -1,0 +1,6 @@
+[submodule "test-git"]
+	path = test-git
+	url = https://github.com/fouadhaydar/test-git.git
+[submodule "try-fork"]
+	path = try-fork
+	url = https://github.com/Mohamad-Haydar/try-fork.git
